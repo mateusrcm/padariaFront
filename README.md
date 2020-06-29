@@ -4,24 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
+Run `npm install` for installing dependecies, after,
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Don´t forget to setup your back-end application, disponible in https://github.com/CrystianJordan/projetoPadaria
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+NOME DO PROJETO (PROJECT NAME): Padaria WEB
+DESCRIÇÃO (DESCRIPTION): this project is a MVP to demonstrate adquired knowledge on "Linguagens de Programação II" classes, we developed the system with the required functionalitys as (CRUD)
+EQUIPE (TEAM): Crystian Luciano Jordan, Mateus Rafael de Campos Martins
+FUNCIONALIDADES IMPLEMENTADAS (IMPLEMENTED FUNCTIONALITYS): CRUD with a beautifull and interactive interface done around ANTD design principles
+TECNOLOGIAS UTILIZADAS (USED TECHNOLOGIES): Angular 9/10, NodeJS, ng-zorro ANT Design for angular stack
